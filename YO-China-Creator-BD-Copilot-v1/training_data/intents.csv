@@ -1,0 +1,13 @@
+intent,description,primary_agent,knowledge_files
+project_intro,Creator asks what the project is,email_agent,knowledge/project_overview.md
+pricing_negotiation,Creator wants higher fixed fee,pricing_agent,"knowledge/pricing_fixed_fee.md;knowledge/revenue_share.md"
+hybrid_model,Creator asks fixed fee plus revenue share,pricing_agent,"knowledge/pricing_fixed_fee.md;knowledge/revenue_share.md"
+net_revenue,Creator asks how Net Revenue is calculated,contract_agent,knowledge/contract_terms.md
+exclusivity,Creator asks about non-compete or exclusivity,contract_agent,knowledge/contract_terms.md
+image_rights,Creator asks how image is used,contract_agent,knowledge/contract_terms.md
+payment_schedule,Creator asks when they get paid,contract_agent,"knowledge/pricing_fixed_fee.md;knowledge/contract_terms.md"
+deliverables,Creator asks what to post,email_agent,knowledge/deliverables.md
+content_process,Creator asks story process,content_agent,knowledge/content_workflow.md
+platform_cases,Creator asks examples/case studies,email_agent,"knowledge/platform_and_samples.md;cases/persian_revenge.md"
+follow_up,Need to chase creator,followup_agent,templates/en/followups.md
+signing,Contract sent/signed/next step,signing_agent,knowledge/content_workflow.md

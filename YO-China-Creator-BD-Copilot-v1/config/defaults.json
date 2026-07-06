@@ -1,0 +1,20 @@
+{
+  "project_name": "YourChannel / YO China AI Short Drama",
+  "default_revenue_share_percentage": "80%",
+  "average_purchase_price_usd": 3.3,
+  "typical_episode_count": "10-20",
+  "free_episode_ratio": "approximately first one-third",
+  "typical_promotional_posts": "around 5",
+  "production_timeline": "3-6 weeks",
+  "default_contract_term": "2 years",
+  "negotiable_contract_term": "1 year in selected cases",
+  "fixed_fee_payment_schedule": {
+    "first_payment": "within 10 business days after agreement is signed and project officially enters production",
+    "second_payment": "after project is completed and officially released"
+  },
+  "case_reference": {
+    "title_en": "Persian Revenge",
+    "title_cn": "波斯复仇记",
+    "gross_paid_revenue_usd": "approximately 500,000"
+  }
+}

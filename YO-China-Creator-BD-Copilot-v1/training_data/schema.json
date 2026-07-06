@@ -1,0 +1,33 @@
+{
+  "fields": [
+    "id",
+    "date",
+    "language",
+    "category",
+    "stage",
+    "emotion",
+    "creator_message",
+    "context",
+    "recommended_reply",
+    "chinese_translation",
+    "notes",
+    "result"
+  ],
+  "category_values": [
+    "project_intro",
+    "pricing_negotiation",
+    "fixed_fee_question",
+    "revenue_share",
+    "hybrid_model",
+    "net_revenue",
+    "payment_schedule",
+    "deliverables",
+    "image_rights",
+    "exclusivity",
+    "contract_term",
+    "sample_projects",
+    "content_process",
+    "follow_up",
+    "signing"
+  ]
+}
