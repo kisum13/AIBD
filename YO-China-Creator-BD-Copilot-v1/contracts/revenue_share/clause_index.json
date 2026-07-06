@@ -1,0 +1,157 @@
+{
+  "contract_type": "revenue_share",
+  "version": "2026.07",
+  "default_percentage": "80% of Net Revenue",
+  "do_not_proactively_offer": [
+    "90% share",
+    "1-year term",
+    "minimum guarantee",
+    "upfront payment",
+    "hybrid fixed+share"
+  ],
+  "clauses": {
+    "cooperation_model": {
+      "section": "Article I / Section 5.1",
+      "keywords": [
+        "revenue share",
+        "cooperation model",
+        "AI production",
+        "platform responsibilities"
+      ],
+      "summary": "Revenue-sharing project; platform handles script, AI production, editing, localization, operations, distribution and project management."
+    },
+    "image_authorization": {
+      "section": "Article II",
+      "keywords": [
+        "portrait",
+        "image",
+        "likeness",
+        "voice",
+        "AI training",
+        "authorization scope"
+      ],
+      "summary": "Creator authorizes project-specific use of portrait, image, voice and related personality rights. No general AI model training."
+    },
+    "story_outline": {
+      "section": "Article I.1.1",
+      "keywords": [
+        "story outline",
+        "creative direction",
+        "creator selection"
+      ],
+      "summary": "Platform provides outline options; creator selects project direction."
+    },
+    "script_review": {
+      "section": "Article I.1.3",
+      "keywords": [
+        "script review",
+        "image protection",
+        "public image",
+        "reputation"
+      ],
+      "summary": "Creator may review script for image protection concerns; platform retains final creative decision-making."
+    },
+    "promotion_obligations": {
+      "section": "Article IV",
+      "keywords": [
+        "five posts",
+        "promotional content",
+        "release",
+        "story",
+        "trailer",
+        "highlights"
+      ],
+      "summary": "Creator promotes project through social channels and publishes no fewer than five promotional content items."
+    },
+    "tracking_link": {
+      "section": "Article IV.1",
+      "keywords": [
+        "tracking link",
+        "profile link",
+        "bio link",
+        "60 days"
+      ],
+      "summary": "Official tracking link should be placed within three business days after release and remain accessible for at least 60 consecutive days."
+    },
+    "revenue_share_ratio": {
+      "section": "Article V.5.2",
+      "keywords": [
+        "80%",
+        "revenue share ratio",
+        "creator share"
+      ],
+      "summary": "Creator receives 80% of Net Revenue under the standard agreement."
+    },
+    "net_revenue": {
+      "section": "Article V.5.3",
+      "keywords": [
+        "Net Revenue",
+        "deductions",
+        "fees",
+        "taxes",
+        "refunds",
+        "chargebacks"
+      ],
+      "summary": "Net Revenue is actual received and settled distributable income after listed deductions."
+    },
+    "settlement": {
+      "section": "Article V.5.4",
+      "keywords": [
+        "monthly settlement",
+        "30 business days",
+        "payment schedule"
+      ],
+      "summary": "Revenue is calculated monthly and paid within 30 business days after each settlement cycle."
+    },
+    "payment_condition": {
+      "section": "Article V.5.5",
+      "keywords": [
+        "actual receipt",
+        "no advance",
+        "no prepay"
+      ],
+      "summary": "Payment obligation arises only after Party A actually receives and settles revenue."
+    },
+    "no_guarantee": {
+      "section": "Article V.5.6",
+      "keywords": [
+        "no guarantee",
+        "no minimum",
+        "no fixed fee",
+        "no advance"
+      ],
+      "summary": "No revenue, viewership, profitability, or commercial success guarantee."
+    },
+    "revenue_verification": {
+      "section": "Article V.5.7",
+      "keywords": [
+        "verify sales data",
+        "two months",
+        "revenue verification"
+      ],
+      "summary": "Creator may request verification of sales data and Net Revenue once every two months."
+    },
+    "ip_ownership": {
+      "section": "Article VI",
+      "keywords": [
+        "intellectual property",
+        "copyright",
+        "AI works",
+        "scripts",
+        "ownership"
+      ],
+      "summary": "Project IP and final works are owned by Party A; creator retains personality rights."
+    },
+    "confidentiality": {
+      "section": "Article VII",
+      "keywords": [
+        "confidentiality",
+        "trade secrets",
+        "contract terms",
+        "scripts",
+        "revenue"
+      ],
+      "summary": "Creator must keep scripts, project materials, contract terms, revenue and business information confidential."
+    }
+  }
+}

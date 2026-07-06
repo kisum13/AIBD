@@ -1,0 +1,148 @@
+{
+  "contract_type": "fixed_fee",
+  "version": "2026.07",
+  "payment_model": "two installments",
+  "do_not_proactively_offer": [
+    "higher fixed fee",
+    "full upfront payment",
+    "1-year term",
+    "hybrid fixed+share"
+  ],
+  "clauses": {
+    "cooperation_model": {
+      "section": "Article I",
+      "keywords": [
+        "fixed fee",
+        "cooperation model",
+        "AI work",
+        "episodes"
+      ],
+      "summary": "Platform may use creator likeness to produce at least one AI-generated work with no fewer than ten episodes."
+    },
+    "image_authorization": {
+      "section": "Article II",
+      "keywords": [
+        "likeness",
+        "image",
+        "voice",
+        "AI training",
+        "authorization"
+      ],
+      "summary": "Authorization is limited to specific AI works and does not authorize general-purpose AI model training."
+    },
+    "term": {
+      "section": "Article II.5",
+      "keywords": [
+        "term",
+        "two years",
+        "renewal",
+        "duration"
+      ],
+      "summary": "Standard contract term is July 1, 2026 to July 1, 2028; renewal by written supplementary agreement."
+    },
+    "script_review": {
+      "section": "Article I.1.3 / Article III.2(4)",
+      "keywords": [
+        "script review",
+        "final work preview",
+        "image protection",
+        "three business days"
+      ],
+      "summary": "Creator may review script/final work for image protection concerns and submit comments within three business days."
+    },
+    "promotion": {
+      "section": "Article IV",
+      "keywords": [
+        "five posts",
+        "promotional content",
+        "publication",
+        "schedule"
+      ],
+      "summary": "Creator must publish no fewer than five promotional contents for the same project."
+    },
+    "tracking_link": {
+      "section": "Article IV.1",
+      "keywords": [
+        "tracking link",
+        "60 days",
+        "profile",
+        "bio",
+        "pinned comment"
+      ],
+      "summary": "Official tracking link should be placed within three business days after release and remain accessible for at least 60 consecutive days."
+    },
+    "fixed_fee_payment": {
+      "section": "Article V.1-2",
+      "keywords": [
+        "payment",
+        "installments",
+        "first payment",
+        "second payment",
+        "10 business days"
+      ],
+      "summary": "Fixed fee is paid in two installments after specified milestones."
+    },
+    "first_payment": {
+      "section": "Article V.2",
+      "keywords": [
+        "first payment",
+        "script confirmed",
+        "materials",
+        "production begins"
+      ],
+      "summary": "First payment due within 10 business days after agreement signing, script confirmation, required materials provision, and production commencement."
+    },
+    "second_payment": {
+      "section": "Article V.2",
+      "keywords": [
+        "second payment",
+        "official release",
+        "tracking link",
+        "verification"
+      ],
+      "summary": "Second payment due within 10 business days after official online release and verification."
+    },
+    "currency": {
+      "section": "Article V.3",
+      "keywords": [
+        "USD",
+        "currency",
+        "exchange rate",
+        "cross-border fees"
+      ],
+      "summary": "Settlement currency is USD; other currency uses payment-date exchange rate and cross-border processing fees may apply."
+    },
+    "sales_verification": {
+      "section": "Article V.4",
+      "keywords": [
+        "sales data",
+        "net revenue",
+        "verify",
+        "two months"
+      ],
+      "summary": "Creator may request sales data and net revenue verification once every two months."
+    },
+    "ip_ownership": {
+      "section": "Article VI",
+      "keywords": [
+        "intellectual property",
+        "copyright",
+        "AI works",
+        "scripts",
+        "ownership"
+      ],
+      "summary": "All results and works are owned exclusively by Party A."
+    },
+    "confidentiality": {
+      "section": "Article VII",
+      "keywords": [
+        "confidentiality",
+        "trade secrets",
+        "contract terms",
+        "scripts",
+        "compensation"
+      ],
+      "summary": "Creator must keep project materials, contract content, compensation and business information confidential."
+    }
+  }
+}
